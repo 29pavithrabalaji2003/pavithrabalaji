@@ -1,4 +1,4 @@
 # pavithrabalaji
-printf("pavithrabalaji");
-I'm currently learning java python html...
-How to reach me?..do contact on linkedin .
+printf("pavithrabalaji");\n
+I'm currently learning java python html...\n
+How to reach me?..do contact on linkedin .\n
